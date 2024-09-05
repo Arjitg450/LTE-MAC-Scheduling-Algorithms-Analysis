@@ -2,9 +2,9 @@
 
 Contributors: 
 
-Arjit Gupta(cs23mtech12001)
+Arjit Gupta(cs23mtech12001@iith.ac.in)
 
-Vikas Ravi Patil(cs22mtech12006)
+Vikas Ravi Patil(cs22mtech12006@iith.ac.in)
 
 LTE MAC Scheduling Algorithms Analysis using NS3 and graphs
 
